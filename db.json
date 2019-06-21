@@ -1,11 +1,10 @@
 {
-  "posts": [
+  "course": [
     {
       "id": 1,
-      "title": "hello"
+      "couseName": "hello",
+      "cousePrice": 22,
+      "courseDuration": 22
     }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  ]
 }
